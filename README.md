@@ -23,7 +23,7 @@ Several unrelated but similar space trading games have been released under the n
 ## Listings
 
 ### Python
-This is a Python version of the origional BASIC game written by Dave Kaufman in 1974
+This is a Python version of the original BASIC game written by Dave Kaufman in 1974
 
 [Listing #1](src/startrader.py)- Star Trader / Python Version
 
