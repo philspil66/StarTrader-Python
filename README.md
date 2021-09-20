@@ -8,10 +8,12 @@ Star Trader is a single-player space trading game, in which the player trades re
 
 ![Star_Trader_1974_screenshot](https://user-images.githubusercontent.com/14840708/133887556-b9fcebe7-985b-41a8-ad1c-00944d346e48.png)
 
-Screenshot of gameplay, featuring the galaxy map
+Screenshot of original game, featuring the galaxy map
 
 ## Development
 Star Trader was written by Dave Kaufman in the [BASIC programming language](https://en.wikipedia.org/wiki/BASIC). The source code to the game was published in the People's Computer Company Newsletter in volume 2, issue 3 in January 1974. The concept for the game is seemingly based on Isaac Asimov's Foundation series of novels.
+
+This version is a port of the game to a modern Python version. Still work in progress!
 
 ## Legacy
 In 1977, the game's code was reprinted in What to Do After You Hit Return. Star Trader was used as the inspiration for the first game of the Trade Wars series of multiplayer space trading games in 1984, making it the ancestor of many subsequent space trader games, including Eve Online, the Wing Commander Privateer series and Elite series.
@@ -20,19 +22,16 @@ Several unrelated but similar space trading games have been released under the n
 
 ## Listings
 
-### HP Standard BASIC
-From the time when computer games where played on dot-matrix printers, here are the HP Standard BASIC versions of the Star Trader Setup Module and the Star Trader Main Module. This version supports dot-martix printers and punch tapes.
+### Python
+This is a Python version of the origional BASIC game written by Dave Kaufman in 1974
 
-[Listing #1](src/STAR%20TRADERS%20GAME%20SET-UP%20MODULE%20-%20HP%20BASIC.txt)- Star Trader / Game Seup Module - HP BASIC
+[Listing #1](src/startrader.py)- Star Trader / Python Version
 
-[Listing #2](sec/STAR%20TRADERS%20MAIN%20MODULE-%20HP%20BASIC.txt) - Star Trader / Main Module - HP BASIC
+### Original BASIC version
+Here is the original BASIC versions from the 1977 listing from What to Do After You Hit Return book.
 
-### Microsoft GW BASIC
-Here is the beginning of a port from HP Standard BASIC to Microsoft GW BASIC. Code needs to be cleaned up to fix the smaller real estate size of a computer screen compared to the dot-matrix pritner.
+[Original BASIC version](https://github.com/philspil66/StarTrader) - Star Trader (1974) in BASIC.
 
-[Listing #1](src/Game%20Seup%20Module%20-%20Microsoft%20GW%20BASIC.txt) - Star Trader / Game Seup Module - Microsoft GW BASIC
-
-Listing #2 - Star Trader / Main Module - Microsoft GW BASIC
 
 
 
