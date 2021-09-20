@@ -1,5 +1,5 @@
-# Star Trader by Dave Kaufman, 1974
-# Python version by Peter Sovietov, 2017
+# Original Star Trader by Dave Kaufman, 1974 in BASIC.
+# Python version
 
 from __future__ import division
 import sys
